@@ -37,8 +37,9 @@ The following data cleaning steps will be applied:
 The following tools will be used in this project:
 
 * SQL for data cleaning and querying
-* Excel for initial exploration
-* Power BI for visualization and dashboards
+* Python Data Analysis & Insights
+* Tableau Interactive Dashboard & Data Visualization
+
 
 ## Expected Insights
 
